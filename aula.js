@@ -16,7 +16,7 @@ var resultado = media.toFixed(2)
 console.log(`Sua média é... ${resultado}.`)*/
 
 //Questão 02
-/*var nome = "Recife"
+/*var nome = "Felipe"
 var cidade = "Pernambuco"
 console.log(`${nome} é de ${cidade}.`)*/
 
